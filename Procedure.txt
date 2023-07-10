@@ -1,0 +1,10 @@
+1. Add internet permission in AndroidManifest.xml
+2. Add register and login buttons in mainActivity
+3. create registerActivity
+4. Create Firebase Project and connect app with that project
+5. Check google-services.json file to make sure app is connected with firebase
+6. User Registration using Email & Password
+7. Create ProfileActivity
+8. make ProfileActivity Launcher
+9. Redirect to ProfileActivity after Register/ login
+10. Add Logout Feature.
